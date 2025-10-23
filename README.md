@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently studying software engineering at wachamo University <br>👯 I’m looking to collaborate on Full-stuck Web development and Cybersecurity<br>🌱 I’m currently learning Full-stuck Web development at freecodecamp and Cybersecurity at udemy<br>💬 Ask me about Web development <br>
 
 
